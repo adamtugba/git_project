@@ -5,5 +5,6 @@ public class Gonul {
         System.out.println("dunya");
         System.out.println("selam");
         System.out.println("kfddkfj");
+        System.out.println("offfff");
     }
 }
